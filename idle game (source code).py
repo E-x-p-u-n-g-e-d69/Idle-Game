@@ -258,7 +258,7 @@ while True:
         tiers = [tier1, tier2, tier3, tier4, tier5, tier6, tier7, tier8, tier9]
         machineunlocks = [False, False, False, False, False, False, False, False]
         machinecosts = [0, 0, 0, 0, 0, 0, 0]
-        machinepoints = [6005,6005,6005,6005,6005,6005,Infinity]
+        machinepoints = [6005,10069,6005,6005,6005,6005,Infinity]
         money = 0
         font = pygame.font.Font("PixeloidSans.ttf", 30)
         upgradetimer = 0
